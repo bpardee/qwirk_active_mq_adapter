@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'qwirk_active_mq_adapter'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.summary     = 'ActiveMQ adapter for the qwirk library'
   s.description = 'Provides an ActiveMQ adapter as a communication interface for the qwirk library'
   s.platform    = 'java'
