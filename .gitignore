@@ -1,0 +1,8 @@
+.idea/
+.bundle/
+bundle/
+log/
+Gemfile.lock
+.rbenv*
+.rvmrc
+pkg/
