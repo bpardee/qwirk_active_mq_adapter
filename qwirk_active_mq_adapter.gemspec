@@ -12,4 +12,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'qwirk_jms_adapter', '~> 0.1.0'
   s.add_dependency 'jruby-activemq'
+  s.add_development_dependency 'rake'
+  s.add_development_dependency 'rdoc'
 end
